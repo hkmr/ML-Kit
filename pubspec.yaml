@@ -1,0 +1,39 @@
+name: mlkit
+description: Realtime face recognition with flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.6.0+9
+  camera:
+  firebase_ml_vision: ^0.6.0
+  path_provider: ^1.6.11
+  tflite_flutter: ^0.4.1
+  image: ^2.1.12
+  tflite: 1.0.4
+  google_fonts:
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/mobilefacenet.tflite
+    - assets/yolov2_tiny.txt
+    - assets/ssd_mobilenet.tflite
+    - assets/ssd_mobilenet.txt
+    - assets/mobilenet_v1_1.0_224.tflite
+    - assets/mobilenet_v1_1.0_224.txt
+    - assets/posenet_mv1_075_float_from_checkpoints.tflite
+    - assets/images/

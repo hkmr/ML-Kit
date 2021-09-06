@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+2" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+3" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter-0.4.2" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.11" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_ml_vision-0.6.0+2" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+1" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/tflite-1.0.4" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+20" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
