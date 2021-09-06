@@ -1,10 +1,5 @@
 <img src="/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" align="left"
      alt="Face recognition">
-# Face Recognition Flutter
-
-Realtime face recognition flutter app.
-
- [Download](https://github.com/Rajatkalsotra/Face-Recognition-with-Flutter/raw/master/FaceRecognition.apk) apk file.
 
 ## Steps
 
